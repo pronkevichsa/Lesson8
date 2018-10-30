@@ -11,8 +11,8 @@ namespace RunningString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Input string:");
-            string s = Console.ReadLine();
+            
+            string s = "Sergei";
             Console.Clear();
             StringBuilder sb = new StringBuilder(s);
             int index = 0;
